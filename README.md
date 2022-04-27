@@ -20,11 +20,11 @@ Link para o Vercel.
 * Você também pode "arrastar" a pasta para dentro do editor, com ele aberto. Isso irá carregar todas as pastas de uma só vez no leitor de código. 
 * Em seguida, volte na sua pasta ZIP e clique no arquivo 'index.html', que estará com o símbolo do seu navegador, os que eu utilizo são o Chrome e o Microsoft Edge.
 
-### Ou se preferir, pode testar a usabilidade através do Vercel neste link: ( LINK )
+### Ou se preferir, pode testar a usabilidade através do Vercel neste link: ( https://portfolio-six-gamma-68.vercel.app/ )
 
 ### Quais são as tecnologias utilizadas?
 
-[ ] HTML5;
+[] HTML5;
 [ ] CSS3;
 [ ] JavaScript.
 
