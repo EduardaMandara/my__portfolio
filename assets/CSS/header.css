@@ -1,0 +1,33 @@
+ /* _______________________________________ */
+/* __________ Start Header Here __________ */
+
+#header {
+    
+    padding: 20px;
+}
+
+#header .header__container {
+}
+
+#header .header__container .img__menu__header {
+    width: 150px;
+    border-radius: 10px;
+}
+
+#header .header__container .menu__header {
+    display: flex;
+}
+
+#header .header__container .menu__header__itens {
+    list-style: none;
+    text-decoration: none;
+}
+
+#header .header__container .menu__header__itens a {
+    color: #F8ECD1;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+ /* __________ End Header Here __________ */
+/* _____________________________________ */

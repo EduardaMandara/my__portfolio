@@ -13,12 +13,12 @@
 }
 
 body {
-    width: 100%;
+
     background-color: #F8ECD1;
 }
 
 header {
-    background-color: #AC7D88;
+    background-color: rgb(172, 125, 136, 0.8);
 }
 
 footer {
