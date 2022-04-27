@@ -4,14 +4,14 @@
 
 ## Etapas do projeto:
 
-- [x] Estrutura HTML;
-- [ ] Definir as cores do site;
+- [x] ✅ Estrutura HTML;
+- [x] ✅ Definir as cores do site;
 - [ ] Coletar as imagens;
 - [ ] Fazer CSS básico;
 - [ ] Dimensionamento da página;
-- [ ] Separar os CSS’s;
+- [x] ✅ Separar os CSS’s;
 - [ ] JavaScript;
-- [x] Link para o Vercel.
+- [x] ✅ Link para o Vercel.
 
 ### Como rodar o projeto?
 
