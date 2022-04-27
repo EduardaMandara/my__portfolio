@@ -1,8 +1,10 @@
 ## 🚧 Projeto em construção 🚧
 
+## Meu Portfólio
+
 ## Etapas do projeto:
 
-[ ] Estrutura HTML;
+- [ ] Estrutura HTML;
 [ ] Definir as cores do site;
 [ ] Coletar as imagens;
 Fazer CSS básico;
@@ -10,8 +12,6 @@ Dimensionamento da página;
 Separar os CSS’s;
 JavaScript;
 Link para o Vercel.
-
-## Meu Portfólio
 
 ### Como rodar o projeto?
 
