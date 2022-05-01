@@ -1,10 +1,3 @@
-:root {
-    --color: #85586F;
-    --color: #AC7D88;
-    --color: #DEB6AB;
-    --color: #F8ECD1;
-}
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
 
 * {
@@ -12,8 +5,14 @@
     padding: 0;
 }
 
-body {
+:root {
+    --color: #85586F;
+    --color: #AC7D88;
+    --color: #DEB6AB;
+    --color: #F8ECD1;
+}
 
+body {
     background-color: #F8ECD1;
 }
 

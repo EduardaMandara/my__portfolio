@@ -1,8 +1,15 @@
  /* ______________________________________ */
 /* __________ Start About Here __________ */
 
+#about__me {
+    display: flex;
 
+    background-color: brown;
+}
 
+.about__container {
+    margin-top: 400px;
+}
 
  /* __________ End About Here __________ */
 /* ____________________________________ */

@@ -1,3 +1,6 @@
+* {
+}
+
  /* _______________________________________ */
 /* __________ Start Header Here __________ */
 
@@ -29,6 +32,7 @@
 #header .header__container ul li {
     display: inline-block;
     position: relative;
+
 }
 
 #header .header__container ul li a {
@@ -46,8 +50,7 @@
     font-weight: bold;
 
     color: brown;
-
-}
+};
 
  /* __________ End Header Here __________ */
 /* _____________________________________ */
